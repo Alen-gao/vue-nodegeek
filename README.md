@@ -1,30 +1,14 @@
 # vue-nodegeek
 
-> Personal website
+> Vue refactoring personal websites
 
-## Build Setup
+## 功能实现
 
-``` bash
-# install dependencies
-npm install
+- [ ] 登录/注册
+- [ ] 网站数据加载
+- [ ] 上传图片
+- [ ] 内容的增/删/改/查
+- [ ] 邮件发送功能
+- [ ] 菜单切换
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

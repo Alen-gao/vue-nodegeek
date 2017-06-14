@@ -1,7 +1,7 @@
 {
   "name": "vue-nodegeek",
   "version": "1.0.0",
-  "description": "Personal website",
+  "description": "Vue refactoring personal websites",
   "author": "Alen-gao",
   "private": true,
   "scripts": {
