@@ -234,7 +234,8 @@ export default {
     return {
       msg: 'Welcome to Your nodegeek!'
     }
-  }
+  },
+  methods: {}
 }
 </script>
 
